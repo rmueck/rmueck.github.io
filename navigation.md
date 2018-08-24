@@ -1,5 +1,4 @@
-# GSS Doku
-
+# rumu wiki
 
 [Automation]()
 
@@ -13,6 +12,19 @@
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](git.md)
+
+[Tips]()
+
+  * # Linux
+  * [General](lnx.md)
+  * [sed](sed.md)
+  * [bash](bash.md)
+  - - - -
+  * # AIX
+  * [NIM](nim.md)
+  - - - -
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](sub3.md)
 
 [Menu Item 2](item2.md)
 - - - -
