@@ -1,18 +1,5 @@
 # rumu wiki
 
-[Automation]()
-
-  * # Puppet Module
-  * [Websphere](was.md)
-  * [DB2](git.md)
-  * [sudo](sudo.md)
-  - - - -
-  * # Rundeck Jobs
-  * [SubMenu Item 3](subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](git.md)
-
 [Tips]()
 
   * # Linux
